@@ -1,0 +1,94 @@
+<header class="main-header">
+
+  <!-- header lower/fixed-header -->     
+  <div class="theme_menu stricky header-lower">
+      <div class="container" >
+          <div class="row">
+          <!--    <div class="col-md-3 col-sm-12 col-xs-12" >-->
+               
+            <!--<div class="cart-box"> -->
+                 <!--   <div class="button"><a href="contact.html" class="btn-one">تسجيل</a></div>
+           
+
+              </div>-->
+              <div class="col-md-9 col-sm-12 col-xs-12">
+                  <div class="menu-bar">
+                      <nav class="main-menu">
+                          <div class="navbar-header">
+                              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                  <span class="icon-bar"></span>
+                                  <span class="icon-bar"></span>
+                                  <span class="icon-bar"></span>
+                              </button>
+                          </div>
+                          <div class="navbar-collapse collapse clearfix">
+                              <ul class="navigation clearfix">
+                                    
+                                    <li class="dropdown"><a href="index.html#">    تسجيل  مغسلة </a>
+                                      
+                                    </li>
+                                    <li class="dropdown"><a href="index.html#">خدماتنا</a>
+                                        
+                                    </li>
+                                    <li class="dropdown"><a href="index.html#">أحجز  موعد </a>
+                                       
+                                    </li>
+                                    <li class="dropdown"><a href="index.html#">من نحن</a>
+                                        
+                                           
+                                    </li>
+                                    <li><a href="contact.html">
+                                      الصفحة الرئيسية  </a></li>
+                                      <li class="dropdown"><span class="flag-icon flag-icon-mr margin-right-8px"></span><a href="#">
+                                            عربي   </a>
+                                            <ul class="submenu">
+                                           <li>    <a  href="home-1.html#"><span class="flag-icon flag-icon-us margin-right-8px"></span> English</a></li>
+                                        <li><a  href="home-1.html#"><span class="flag-icon flag-icon-es margin-right-8px"></span> Spanish</a></li>
+                                            <li>     <a href="home-1.html#"><span class="flag-icon flag-icon-mr margin-right-8px"></span> Arabic</a></li>
+                                                <li>    <a  href="home-1.html#"><span class="flag-icon flag-icon-de margin-right-8px"></span> German</a></li>
+                                           
+                                                </ul>
+                                        </li>
+                                </ul>
+
+                              <!-- mobile menu -->
+                              <ul class="mobile-menu clearfix">
+                               <!--   <li class="current"><a href="index.html">Home</a></li>-->
+                                  <li class="dropdown"><a href="index.html#">    تسجيل  مغسلة </a>
+                                    
+                                  </li>
+                                  <li class="dropdown"><a href="index.html#">خدماتنا</a>
+                                      
+                                  </li>
+                                  <li class="dropdown"><a href="index.html#">أحجز  موعد </a>
+                                     
+                                  </li>
+                                  <li class="dropdown"><a href="index.html#">من نحن</a>
+                                      
+                                         
+                                  </li>
+                                  <li><a href="contact.html">
+                                     
+                                    الصفحة الرئيسية      </a></li>
+                                    
+                              </ul>
+                          </div>
+                      </nav>
+                       
+                      <div class="cart-box">
+                        <a href="index.html#"><i class="fa fa-shopping-basket" aria-hidden="true"></i>Your Cart(0)</a>
+                    </div>
+                  </div>
+               
+              </div>
+              <div style ="margin-left:1000px;width:150px;  ">
+                    <div class="logo-box">
+                          <a href="index.html"></a>
+                      </div>
+                      </div> 
+          </div>
+      </div>
+  </div>
+  <!-- end header lower/fixed-header -->
+
+</header>

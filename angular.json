@@ -24,8 +24,24 @@
             ],
             "styles": [
               "src/styles.css"
+
+              
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery-2.1.4.js",
+              "src/assets/js/wow.js",
+              "src/assets/js/owl.js",
+              "src/assets/js/validation.js",
+              "src/assets/js/jquery-ui.js",
+              "src/assets/js/jquery.fancybox.pack.js",
+              "src/assets/js/SmoothScroll.js",
+              "src/assets/js/jQuery.style.switcher.min.js",
+              "src/assets/js/html5lightbox/html5lightbox.js",
+              "src/assets/js/script.js",
+              "src/assets/js/bootstrap.min.js"
+
+
+            ]
           },
           "configurations": {
             "production": {
